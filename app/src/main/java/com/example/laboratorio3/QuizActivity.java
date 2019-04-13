@@ -60,6 +60,7 @@ public class QuizActivity extends AppCompatActivity {
             Log.d(TAG,"onDestroy called");
         }
     }
+    /*jvnon3ro*/
 
 
 }

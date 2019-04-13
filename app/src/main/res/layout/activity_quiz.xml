@@ -41,6 +41,7 @@ tools:context=".QuizActivity"
             tools:layout_editor_absoluteX="366dp"
             tools:layout_editor_absoluteY="134dp"/>
 
+
     </LinearLayout>
 
 </LinearLayout>
